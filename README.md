@@ -2,8 +2,8 @@
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-blue.svg)
 ![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)
-![Java](https://img.shields.io/badge/Java-8+-orange.svg)
-![MySQL](https://img.shields.io/badge/MySQL-5.7+-lightgrey.svg)
+![Java](https://img.shields.io/badge/Java-11+-orange.svg)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-lightgrey.svg)
 
 一个功能完善的在线书店系统，提供图书浏览、购买、用户管理、订单处理等功能。
 
@@ -110,11 +110,11 @@ BookstoreWeb/
 
 ## 👥 贡献者
 
-- 开发者名字 - [GitHub](https://github.com/username)
+- 开发者名字 - [GitHub](https://github.com/zhuhuichen)
 
 ## 📞 联系方式
 
 如有任何问题或建议，请通过以下方式联系：
 
 - 电子邮件：your-email@example.com
-- 项目地址：[GitHub](https://github.com/your-username/online-bookstore) 
+- 项目地址：[GitHub](https://github.com/ckxkx/BookstoreWeb.git) 
