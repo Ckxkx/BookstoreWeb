@@ -116,5 +116,5 @@ BookstoreWeb/
 
 如有任何问题或建议，请通过以下方式联系：
 
-- 电子邮件：your-email@example.com
+- 电子邮件：colors0874@gmail.com
 - 项目地址：[GitHub](https://github.com/ckxkx/BookstoreWeb.git) 
