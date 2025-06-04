@@ -57,9 +57,9 @@ BookstoreWeb/
 
 ### 前提条件
 
-- JDK 8+
-- MySQL 5.7+
-- Maven 3.6+
+- JDK 11+
+- MySQL 8.0+
+- Maven 3.9+
 - Tomcat 9+
 
 ### 安装步骤
