@@ -66,7 +66,7 @@ BookstoreWeb/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/your-username/online-bookstore.git
+   git clone https://github.com/ckxkx/BookstoreWeb.git
    cd online-bookstore
    ```
 
