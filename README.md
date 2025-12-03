@@ -115,7 +115,7 @@ BookstoreWeb/
 
 ## 👥 贡献者
 
-- 开发者名字 - [GitHub](https://github.com/zhuhuichen)
+- 开发者名字 - [GitHub](https://github.com/Ckxkx)
 
 ## 📞 联系方式
 
